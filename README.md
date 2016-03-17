@@ -1,6 +1,8 @@
 Fingerings
 
-Try the following URLs:
+To run the application, go to the Application.java file, right-click (or however you right-click on a Mac) and choose "Run Application.main()" or "Debug Application.main()".
+
+Now try navigating to the following URLs in your browser:
 
 localhost:8080
 
