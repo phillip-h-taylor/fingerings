@@ -1,6 +1,6 @@
 Fingerings
 
-To run the application, go to the Application.java file, right-click (or however you right-click on a Mac) and choose "Run Application.main()" or "Debug Application.main()".
+To run the application, go to the Application.java file, right-click (or however you right-click on a Mac) and choose "Run Application.main()" or "Debug Application.main()". Ctrl+Shift+F10 or Cmd+Shift+F10 will also do the trick.
 
 Now try navigating to the following URLs in your browser:
 
