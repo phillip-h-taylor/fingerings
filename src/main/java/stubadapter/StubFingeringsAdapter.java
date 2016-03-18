@@ -4,12 +4,10 @@ import com.google.common.collect.Lists;
 import domain.fingering.Fingering;
 import domain.instrument.Instrument;
 import domain.note.Note;
-import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Component;
 import web.port.FingeringsPort;
 
 @Component
-@Profile("stubbed")
 public class StubFingeringsAdapter implements FingeringsPort {
 
     @Override
