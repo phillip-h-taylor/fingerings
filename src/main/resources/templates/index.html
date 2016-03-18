@@ -5,7 +5,7 @@
     <title>Fingerings - Home</title>
 </head>
 <body>
-<div>Welcome<span th:if="${name}">, <span th:text="${name}"></span>, </span> to the Fingerings home page.</div>
+<div>Welcome<span th:if="${name}" th:text="${', ' + name + ', '}"></span> to the Fingerings home page.</div>
 <div>To find fingerings for the clarinet, please click <a href="/clarinet">here</a>.</div>
 
 </body>
